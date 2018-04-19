@@ -1,0 +1,10 @@
+---
+problem_id: X87142_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: 
+time_in: 2016-03-16 18:40:51
+time_out: 2016-03-16 18:41:11
+veredict: SC
+veredict_info: 
+title: "Control - Torn 2 (Tardor 2015). Millorat amb jocs de proves d'eficiencia."

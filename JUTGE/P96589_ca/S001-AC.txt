@@ -1,0 +1,10 @@
+---
+problem_id: P96589_ca
+submission_id: S001
+compiler_id: P1++
+annotation: 
+time_in: 2015-10-01 16:00:43
+time_out: 2015-10-01 16:00:50
+veredict: AC
+veredict_info: 
+title: Control C101C

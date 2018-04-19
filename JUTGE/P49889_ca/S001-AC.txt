@@ -1,0 +1,10 @@
+---
+problem_id: P49889_ca
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-12 23:18:28
+time_out: 2016-12-12 23:18:34
+veredict: AC
+veredict_info: 
+title: Consonants i vocals

@@ -1,0 +1,10 @@
+---
+problem_id: P16175_ca
+submission_id: S002
+compiler_id: P1++
+annotation: 
+time_in: 2015-11-21 10:33:29
+time_out: 2015-11-21 10:33:36
+veredict: AC
+veredict_info: 
+title: F002B. Vectors comprimits

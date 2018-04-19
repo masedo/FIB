@@ -1,0 +1,10 @@
+---
+problem_id: X18899_ca
+submission_id: S011
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-08 18:52:40
+time_out: 2016-06-08 18:52:52
+veredict: EE
+veredict_info: abnormal program termination
+title: Arbre suma d'un arbre n-ari

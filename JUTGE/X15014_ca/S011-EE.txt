@@ -1,0 +1,10 @@
+---
+problem_id: X15014_ca
+submission_id: S011
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-06 20:17:56
+time_out: 2016-06-06 20:18:04
+veredict: EE
+veredict_info: invalid memory reference
+title: Arbre de sumes d'un arbre donat

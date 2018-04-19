@@ -1,0 +1,10 @@
+---
+problem_id: X68173_ca
+submission_id: S005
+compiler_id: PRO2
+annotation: 
+time_in: 2016-03-07 21:32:34
+time_out: 2016-03-07 21:32:50
+veredict: WA
+veredict_info: 
+title: Conjunt d'estudiants amb imax

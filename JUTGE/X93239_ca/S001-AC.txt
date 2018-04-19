@@ -1,0 +1,10 @@
+---
+problem_id: X93239_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: 
+time_in: 2016-04-21 15:09:23
+time_out: 2016-04-21 15:09:34
+veredict: AC
+veredict_info: 
+title: Comptatge d'elements frontissa d'un vector

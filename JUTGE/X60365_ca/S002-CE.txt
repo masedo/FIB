@@ -1,0 +1,10 @@
+---
+problem_id: X60365_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-08 20:44:47
+time_out: 2016-06-08 20:44:54
+veredict: CE
+veredict_info: 
+title: Cerca en un arbre general

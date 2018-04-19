@@ -1,0 +1,10 @@
+---
+problem_id: X15014_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-06 19:45:19
+time_out: 2016-06-06 19:45:26
+veredict: CE
+veredict_info: 
+title: Arbre de sumes d'un arbre donat

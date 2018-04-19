@@ -1,0 +1,10 @@
+---
+problem_id: P13994_en
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-09 16:04:58
+time_out: 2016-12-09 16:05:03
+veredict: EE
+veredict_info: bad_alloc exception
+title: Weighted shortest path (2)

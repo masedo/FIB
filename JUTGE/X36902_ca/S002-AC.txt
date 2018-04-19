@@ -1,0 +1,10 @@
+---
+problem_id: X36902_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: 
+time_in: 2016-03-26 18:58:28
+time_out: 2016-03-26 18:58:37
+veredict: AC
+veredict_info: 
+title: Evaluacio d'una expressio amb parentesis

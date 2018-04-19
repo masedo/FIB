@@ -1,0 +1,10 @@
+---
+problem_id: X74882_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: 
+time_in: 2016-03-01 21:39:28
+time_out: 2016-03-01 21:39:45
+veredict: AC
+veredict_info: 
+title: Actualitzar un conjunt d'estudiants

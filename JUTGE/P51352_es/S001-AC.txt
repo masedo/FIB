@@ -1,0 +1,10 @@
+---
+problem_id: P51352_es
+submission_id: S001
+compiler_id: P1++
+annotation: 
+time_in: 2015-09-22 10:20:17
+time_out: 2015-09-22 10:20:23
+veredict: AC
+veredict_info: 
+title: Elementos

@@ -1,0 +1,10 @@
+---
+problem_id: P25235_en
+submission_id: S004
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-12 21:32:47
+time_out: 2016-12-12 21:32:53
+veredict: AC
+veredict_info: 
+title: Weighted shortest path (3)

@@ -1,0 +1,10 @@
+---
+problem_id: P29033_ca
+submission_id: S003
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-06 21:11:18
+time_out: 2016-12-06 21:11:23
+veredict: WA
+veredict_info: 
+title: Dos colors

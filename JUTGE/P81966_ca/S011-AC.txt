@@ -1,0 +1,10 @@
+---
+problem_id: P81966_ca
+submission_id: S011
+compiler_id: G++11
+annotation: 
+time_in: 2016-10-14 17:54:44
+time_out: 2016-10-14 17:54:53
+veredict: AC
+veredict_info: 
+title: Cerca dicotòmica

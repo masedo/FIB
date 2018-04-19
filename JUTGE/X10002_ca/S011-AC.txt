@@ -1,0 +1,10 @@
+---
+problem_id: X10002_ca
+submission_id: S011
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-05 19:12:56
+time_out: 2016-06-05 19:13:06
+veredict: AC
+veredict_info: 
+title: Esborrat de totes les aparicions d'un element a una llista

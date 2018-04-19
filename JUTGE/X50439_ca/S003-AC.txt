@@ -1,0 +1,10 @@
+---
+problem_id: X50439_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-03 09:28:01
+time_out: 2016-06-03 09:28:09
+veredict: AC
+veredict_info: 
+title: Còpia d'una cadena de nodes simplement encadenats

@@ -1,0 +1,10 @@
+---
+problem_id: X70418_en
+submission_id: S003
+compiler_id: P1++
+annotation: 
+time_in: 2015-10-04 11:36:45
+time_out: 2015-10-04 11:36:51
+veredict: PE
+veredict_info: 
+title: Bows

@@ -1,0 +1,10 @@
+---
+problem_id: P66559_ca
+submission_id: S001
+compiler_id: P1++
+annotation: 
+time_in: 2015-11-01 18:37:08
+time_out: 2015-11-01 18:37:14
+veredict: PE
+veredict_info: 
+title: P0023. Els triangles bufons

@@ -1,0 +1,10 @@
+---
+problem_id: X96511_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-09 11:15:02
+time_out: 2016-06-09 11:15:12
+veredict: AC
+veredict_info: 
+title: Nombre d'aparicions d'un valor en un arbre general

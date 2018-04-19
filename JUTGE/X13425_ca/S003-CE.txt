@@ -1,0 +1,10 @@
+---
+problem_id: X13425_ca
+submission_id: S003
+compiler_id: MakePRO2
+annotation: 
+time_in: 2016-03-27 17:19:47
+time_out: 2016-03-27 17:19:53
+veredict: CE
+veredict_info: 
+title: Distribucio justa de cues

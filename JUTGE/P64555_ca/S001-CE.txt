@@ -1,0 +1,10 @@
+---
+problem_id: P64555_ca
+submission_id: S001
+compiler_id: P1++
+annotation: 
+time_in: 2015-11-12 23:27:35
+time_out: 2015-11-12 23:27:40
+veredict: CE
+veredict_info: 
+title: F006B. Distància de Manhattan

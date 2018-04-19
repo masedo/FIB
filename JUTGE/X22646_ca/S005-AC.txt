@@ -1,0 +1,10 @@
+---
+problem_id: X22646_ca
+submission_id: S005
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-04 20:46:07
+time_out: 2016-06-04 20:46:17
+veredict: AC
+veredict_info: 
+title: Trenat de cues

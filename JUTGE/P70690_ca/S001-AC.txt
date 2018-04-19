@@ -1,0 +1,10 @@
+---
+problem_id: P70690_ca
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-11-18 18:25:04
+time_out: 2016-11-18 18:25:08
+veredict: AC
+veredict_info: 
+title: Tresors en un mapa (1)

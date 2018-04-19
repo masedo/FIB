@@ -1,0 +1,10 @@
+---
+problem_id: X39064_ca
+submission_id: S003
+compiler_id: PRO2
+annotation: 
+time_in: 2016-03-11 10:32:09
+time_out: 2016-03-11 10:32:17
+veredict: AC
+veredict_info: 
+title: Rectangles amb mínima distància al centre o cantonades (corners)

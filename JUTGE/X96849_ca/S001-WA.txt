@@ -1,0 +1,10 @@
+---
+problem_id: X96849_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: 
+time_in: 2016-04-20 15:37:53
+time_out: 2016-04-20 15:38:00
+veredict: WA
+veredict_info: 
+title: Cerca en un arbre de parells d'enters

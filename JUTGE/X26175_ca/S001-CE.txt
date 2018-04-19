@@ -1,0 +1,10 @@
+---
+problem_id: X26175_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: 
+time_in: 2016-03-16 12:21:34
+time_out: 2016-03-16 12:21:43
+veredict: CE
+veredict_info: 
+title: 'Control - Torn 1 (Tardor 2015)'

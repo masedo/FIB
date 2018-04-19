@@ -1,0 +1,10 @@
+---
+problem_id: P74219_en
+submission_id: S004
+compiler_id: G++11
+annotation: 
+time_in: 2016-11-05 16:07:32
+time_out: 2016-11-05 16:07:37
+veredict: AC
+veredict_info: 
+title: Fibonacci numbers (2)

@@ -1,0 +1,10 @@
+---
+problem_id: P99182_es
+submission_id: S001
+compiler_id: P1++
+annotation: 
+time_in: 2015-10-01 17:19:23
+time_out: 2015-10-01 17:19:29
+veredict: AC
+veredict_info: 
+title: Promedio

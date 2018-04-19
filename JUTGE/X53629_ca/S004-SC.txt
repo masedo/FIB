@@ -1,0 +1,10 @@
+---
+problem_id: X53629_ca
+submission_id: S004
+compiler_id: MakePRO2
+annotation: 
+time_in: 2016-05-24 19:27:17
+time_out: 2016-05-24 19:27:39
+veredict: SC
+veredict_info: 
+title: 'Pràctica de PRO2 - Primavera 2016 (provisional)'

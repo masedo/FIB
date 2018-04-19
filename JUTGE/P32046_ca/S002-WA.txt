@@ -1,0 +1,10 @@
+---
+problem_id: P32046_ca
+submission_id: S002
+compiler_id: P1++
+annotation: 
+time_in: 2015-09-23 13:30:05
+time_out: 2015-09-23 13:30:12
+veredict: WA
+veredict_info: 
+title: Control C202F

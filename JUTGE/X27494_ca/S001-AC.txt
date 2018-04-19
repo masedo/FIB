@@ -1,0 +1,10 @@
+---
+problem_id: X27494_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: 
+time_in: 2016-04-08 10:43:22
+time_out: 2016-04-08 10:43:29
+veredict: AC
+veredict_info: 
+title: Estadístiques d'una seqüència d'enters amb esborrat

@@ -1,0 +1,10 @@
+---
+problem_id: P45102_ca
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-06-22 11:55:32
+time_out: 2016-06-22 11:55:40
+veredict: EE
+veredict_info: invalid memory reference
+title: Expressió completament parentitzada

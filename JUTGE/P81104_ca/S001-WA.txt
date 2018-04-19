@@ -1,0 +1,10 @@
+---
+problem_id: P81104_ca
+submission_id: S001
+compiler_id: P1++
+annotation: 
+time_in: 2015-11-22 18:47:24
+time_out: 2015-11-22 18:47:30
+veredict: WA
+veredict_info: 
+title: F001A. Alumnes de la FIPS

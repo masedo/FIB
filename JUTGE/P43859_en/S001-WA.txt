@@ -1,0 +1,10 @@
+---
+problem_id: P43859_en
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-08 20:40:16
+time_out: 2016-12-08 20:40:20
+veredict: WA
+veredict_info: 
+title: Weighted shortest path (1)

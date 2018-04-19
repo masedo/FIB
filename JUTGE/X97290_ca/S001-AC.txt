@@ -1,0 +1,10 @@
+---
+problem_id: X97290_ca
+submission_id: S001
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-03 10:30:43
+time_out: 2016-06-03 10:30:51
+veredict: AC
+veredict_info: 
+title: Còpia d'una cadena de nodes doblement encadenats

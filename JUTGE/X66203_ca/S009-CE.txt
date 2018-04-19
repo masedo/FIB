@@ -1,0 +1,10 @@
+---
+problem_id: X66203_ca
+submission_id: S009
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-08 17:07:29
+time_out: 2016-06-08 17:07:38
+veredict: CE
+veredict_info: 
+title: Màxim d'un arbre n-ari

@@ -1,0 +1,10 @@
+---
+problem_id: P12828_ca
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-11 11:53:35
+time_out: 2016-12-11 11:53:39
+veredict: AC
+veredict_info: 
+title: Zeros i uns (1)

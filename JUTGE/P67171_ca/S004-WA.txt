@@ -1,0 +1,10 @@
+---
+problem_id: P67171_ca
+submission_id: S004
+compiler_id: G++11
+annotation: 
+time_in: 2016-06-22 13:13:55
+time_out: 2016-06-22 13:14:04
+veredict: WA
+veredict_info: 
+title: El retorn del campanar de la Torrassa

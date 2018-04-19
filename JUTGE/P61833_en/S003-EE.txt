@@ -1,0 +1,10 @@
+---
+problem_id: P61833_en
+submission_id: S003
+compiler_id: G++11
+annotation: 
+time_in: 2016-10-21 19:40:54
+time_out: 2016-10-21 19:41:01
+veredict: EE
+veredict_info: time limit exceeded
+title: Powers of a matrix

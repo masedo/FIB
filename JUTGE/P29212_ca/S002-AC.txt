@@ -1,0 +1,10 @@
+---
+problem_id: P29212_ca
+submission_id: S002
+compiler_id: G++11
+annotation: 
+time_in: 2016-10-14 18:43:09
+time_out: 2016-10-14 18:43:17
+veredict: AC
+veredict_info: 
+title: Exponenciació modular

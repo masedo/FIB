@@ -1,0 +1,10 @@
+---
+problem_id: X18899_ca
+submission_id: S002
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-08 18:29:21
+time_out: 2016-06-08 18:29:30
+veredict: CE
+veredict_info: 
+title: Arbre suma d'un arbre n-ari

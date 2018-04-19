@@ -1,0 +1,10 @@
+---
+problem_id: P81966_ca
+submission_id: S002
+compiler_id: P1++
+annotation: 
+time_in: 2015-12-02 19:21:50
+time_out: 2015-12-02 19:21:57
+veredict: EE
+veredict_info: invalid memory reference
+title: Cerca dicotòmica

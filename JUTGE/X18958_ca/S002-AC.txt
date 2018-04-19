@@ -1,0 +1,10 @@
+---
+problem_id: X18958_ca
+submission_id: S002
+compiler_id: MakePRO2
+annotation: 
+time_in: 2016-03-26 18:04:26
+time_out: 2016-03-26 18:04:34
+veredict: AC
+veredict_info: 
+title: Cerca en piles de parints

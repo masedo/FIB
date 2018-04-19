@@ -1,0 +1,10 @@
+---
+problem_id: X25142_ca
+submission_id: S013
+compiler_id: PRO2
+annotation: 
+time_in: 2016-06-04 18:42:18
+time_out: 2016-06-04 18:42:29
+veredict: SC
+veredict_info: 
+title: Suma màxima dels camins d'un arbre general

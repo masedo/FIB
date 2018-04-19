@@ -1,0 +1,10 @@
+---
+problem_id: G57610_en
+submission_id: S006
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-03 10:00:02
+time_out: 2016-12-03 10:00:18
+veredict: WA
+veredict_info: 
+title: Dominator

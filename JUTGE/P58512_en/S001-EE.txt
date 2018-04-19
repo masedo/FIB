@@ -1,0 +1,10 @@
+---
+problem_id: P58512_en
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-11-05 19:31:44
+time_out: 2016-11-05 19:31:48
+veredict: EE
+veredict_info: time limit exceeded
+title: Interest rates

@@ -1,0 +1,10 @@
+---
+problem_id: X38658_ca
+submission_id: S005
+compiler_id: PRO2
+annotation: 
+time_in: 2016-04-20 23:14:11
+time_out: 2016-04-20 23:14:19
+veredict: CE
+veredict_info: 
+title: Camí preferent d'un arbre

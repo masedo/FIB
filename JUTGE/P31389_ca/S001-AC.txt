@@ -1,0 +1,10 @@
+---
+problem_id: P31389_ca
+submission_id: S001
+compiler_id: G++11
+annotation: 
+time_in: 2016-12-14 21:30:10
+time_out: 2016-12-14 21:30:16
+veredict: AC
+veredict_info: 
+title: Torres dins d'un rectangle

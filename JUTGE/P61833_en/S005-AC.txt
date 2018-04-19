@@ -1,0 +1,10 @@
+---
+problem_id: P61833_en
+submission_id: S005
+compiler_id: G++11
+annotation: 
+time_in: 2016-10-21 19:58:23
+time_out: 2016-10-21 19:58:29
+veredict: AC
+veredict_info: 
+title: Powers of a matrix

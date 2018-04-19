@@ -1,0 +1,10 @@
+---
+problem_id: X18958_ca
+submission_id: S001
+compiler_id: MakePRO2
+annotation: 
+time_in: 2016-03-26 17:59:56
+time_out: 2016-03-26 18:00:04
+veredict: EE
+veredict_info: abnormal program termination
+title: Cerca en piles de parints

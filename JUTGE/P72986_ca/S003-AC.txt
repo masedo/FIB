@@ -1,0 +1,10 @@
+---
+problem_id: P72986_ca
+submission_id: S003
+compiler_id: P1++
+annotation: 
+time_in: 2015-10-01 17:04:08
+time_out: 2015-10-01 17:04:15
+veredict: AC
+veredict_info: 
+title: Avaluació de polinomis (2)

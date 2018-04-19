@@ -1,0 +1,10 @@
+---
+problem_id: P58512_en
+submission_id: S008
+compiler_id: G++11
+annotation: 
+time_in: 2016-11-05 21:22:49
+time_out: 2016-11-05 21:22:54
+veredict: WA
+veredict_info: 
+title: Interest rates
